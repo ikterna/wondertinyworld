@@ -1,7 +1,6 @@
-![Wonder Tiny World Banner](https://ikterna.github.io/wondertinyworld/banner.jpg)
 # 🌟 Wonder Tiny World
 
-![Wonder Tiny World Banner](https://ikterna.github.io/wondertinyworld/твій_банер.jpg)
+![Wonder Tiny World Banner](https://ikterna.github.io/wondertinyworld/banner.jpg)
 
 **Cute and cozy illustrations by Wonder Tiny World — discover unique TeePublic designs.**  
 
