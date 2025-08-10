@@ -1,3 +1,4 @@
+![Wonder Tiny World Banner](https://ikterna.github.io/wondertinyworld/banner.jpg)
 # 🌟 Wonder Tiny World
 
 ![Wonder Tiny World Banner](https://ikterna.github.io/wondertinyworld/твій_банер.jpg)
